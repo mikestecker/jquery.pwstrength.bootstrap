@@ -2,7 +2,10 @@
 
 ## 1.2.8
 
-- Updated to work with Bootstrap 4.
+- Updated to work with Bootstrap 4. Bootstrap 3 is still the default mode.
+- Allow to establish the placement of the popover through an option.
+- Make the css classes added to the bar and verdicts customizable.
+- Bugfix in the progress bar percentage calculation for a score of zero.
 
 ## 1.2.7
 
